@@ -1,0 +1,26 @@
+body {
+  background-image: url("../assets/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.box {
+  padding: 0.4rem;
+  border-radius: 15px;
+  background-color: rgba(26, 24, 24, 0.75);
+  width: 100%;
+  text-align: center;
+  display: flex;
+  transition: transform 0.2s;
+  color: rgb(209, 209, 209);
+  font-size: larger;
+}
+.box:hover {
+  transform: scale(1.1);
+}
+
+.box_container {
+  display: flex;
+  margin: 1rem 0;
+}
