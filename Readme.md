@@ -2,7 +2,7 @@
     <img src='https://github.com/kennethdevpc/weatherApp/blob/master/src/assets/weatherGif.jpg' </img>
 </p>
 
-# [ WeatherApp Project ](https://github.com/kennethdevpc/weatherApp)
+# [ WeatherApp Project ](https://weatherapp-kennethdevpc.netlify.app/)
 
 ## Project objective
 
