@@ -1,7 +1,6 @@
 import React from "react";
 
 const Info = (props) => {
-  console.log(props);
   return (
     <div>
       {props.error && (
@@ -24,7 +23,8 @@ const Info = (props) => {
             <p className=" col-md-12 col-sm-12 col-xl-3 col-lg-12">
               <div className="box col-md-12 col-sm-12 ">
                 <i className="fas fa-temperature-low"></i> Temperature:{" "}
-                {props.temperature} ℃, {props.description}
+                {props.temperature} {props.fahrenheit ? "°F" : "°C"},{" "}
+                {props.description}
               </div>
             </p>
           )}
@@ -43,6 +43,17 @@ const Info = (props) => {
             </p>
           )}
         </div>
+      ) : (
+        ""
+      )}
+
+      {!props.error ? (
+        <button
+          onClick={props.changeScale}
+          className="btn btn-warning btn-block"
+        >
+          change temperature scale
+        </button>
       ) : (
         ""
       )}
