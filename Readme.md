@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://raw.githubusercontent.com/kenpulicorre/countries_proyect/main/client/src/images/bandera.gif' </img>
+    <img src='https://github.com/kennethdevpc/weatherApp/blob/master/src/assets/weatherGif.jpg' </img>
 </p>
 
 # [ WeatherApp Project ](https://github.com/kennethdevpc/weatherApp)
