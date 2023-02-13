@@ -13,7 +13,10 @@ export default function NavBar() {
           <li>
             menu
             <ul>
-              <a href="https://github.com/kennethdevpc/weatherApp">
+              <a
+                href="https://github.com/kennethdevpc/weatherApp"
+                target="_blank"
+              >
                 <li>Code</li>
               </a>
               <a href="#123">
@@ -28,10 +31,13 @@ export default function NavBar() {
           <li>
             socials
             <ul>
-              <a href="https://wa.link/gvjrns">
+              <a href="https://wa.link/gvjrns" target="_blank">
                 <li>whatsapp </li>
               </a>
-              <a href="https://www.linkedin.com/in/kennethe-p-813311225/">
+              <a
+                href="https://www.linkedin.com/in/kennethe-p-813311225/"
+                target="_blank"
+              >
                 <li>LinkedIn</li>
               </a>
             </ul>
