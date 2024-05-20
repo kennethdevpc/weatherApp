@@ -92,7 +92,6 @@ Wpp: **<a href="https://wa.link/gvjrns"> +573184484423 </a>**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethe-p-813311225/)
 </br>
 
 ---
