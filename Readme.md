@@ -87,7 +87,7 @@ npm run build
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email: **ingkeneidel@gmail.com**
+Email: ****
 Wpp: **<a href="https://wa.link/gvjrns"> +573184484423 </a>**
 
 ## 🌐 Socials:
